@@ -1,7 +1,7 @@
 Git-Workshop
 ==============================
 
-Workshop acerca del uso de Git en proyectos de ciencia de datos
+Workshop acerca del uso de Git en proyectos de ciencia de datos. Ejemplo de cambio de md.
 
 Project Organization
 ------------
